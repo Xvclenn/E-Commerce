@@ -1,0 +1,10 @@
+.card {
+    align-items: center;
+    flex-direction: row;
+    height: 24px;
+    max-width: 1330px;
+    margin: auto;
+    margin-top: 21px;
+    margin-bottom: 29px;
+    border: 0;
+}
