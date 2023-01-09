@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+.frame104 {
+    height: 71px;
+    border: 0;
+    background-color: whitesmoke;
+    border-radius: 0;
+}
+
+.bigCat {
+    gap: 16px;
+    display: flex;
+    align-items: center;
+    background-color: #eda415;
+    border: 0;
+    border-radius: 0;
+    width: 218px;
+    height: 71px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height */
+
+    color: #ffffff;
+}
+
+.dropdown-toggle::after {
+    display: none;
+}
+
+.frame104card {
+    display: flex;
+    justify-content: center;
+    gap: 98px;
+}
+
+.frame104right {
+    display: flex;
+    gap: 327px;
+    align-items: center;
+}
+
+.frame104mid {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height */
+
+    color: #3a3a3a;
+
+    display: flex;
+    gap: 29px;
+    align-items: center;
+    width: 508px;
+    /* background-color: transparent; */
+}
+
+.frame104mid button {
+    background-color: transparent;
+    border: 0;
+    border-radius: 0;
+}
+
+.little {
+    display: flex;
+    /* width: 72px; */
+    height: 24px;
+    align-items: center;
+}
+
+.frame104right p.m-0 {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height */
+
+    /* a */
+
+    color: #003f62;
+}
